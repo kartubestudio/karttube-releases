@@ -1,0 +1,8 @@
+#BMG
+# KartTube Online - aviso de actualizacion (REPLACE)
+   11fa	= Actualiza KartTube Online para seguir jugando!\n
+	+ \n
+	+ Error: \z{a02,1000000005}
+   11fe	= Actualiza KartTube Online para seguir jugando!\n
+	+ \n
+	+ Error: \z{a02,1000000005}

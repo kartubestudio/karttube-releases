@@ -1,0 +1,5 @@
+#BMG
+# KartTube Online - Common 26af
+	26af	= No puedes cambiar los mandos durante un \n
+	+ enfrentamiento en KartTube Online. \n
+	+ Vuelve a colocar el anterior.
