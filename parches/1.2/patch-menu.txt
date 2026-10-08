@@ -2102,3 +2102,62 @@
  1869d	/
  1869e	/
 
+
+#--- nombres de copas, circuitos y arenas (texto oficial del juego en español, para los cinco idiomas)
+
+  23f0	= Copa Champiñón
+  23f1	= Copa Flor
+  23f2	= Copa Estrella
+  23f3	= Copa Especial
+  23f4	= Copa Caparazón
+  23f5	= Copa Plátano
+  23f6	= Copa Hoja
+  23f7	= Copa Centella
+  23f8	= Coliseo Galáctico
+  24ea	= GCN Tierra Galleta
+  24eb	= DS Casa Crepuscular
+  24ec	= SNES Circuito de Batalla 4
+  24ed	= GBA Circuito de Batalla 3
+  24ee	= N64 Rascacielos
+  T11	= Circuito de Luigi
+  T12	= Pradera Mu-Mu
+  T13	= Barranco Champiñón
+  T14	= Fábrica de Toad
+  T21	= Circuito Mario
+  T22	= Centro Cocotero
+  T23	= Cumbre DK
+  T24	= Mina de Wario
+  T31	= Circuito de Daisy
+  T32	= Colina de Koopa
+  T33	= Senda del Arce
+  T34	= Volcán Gruñón
+  T41	= Ruinas Seco-Seco
+  T42	= Circuito Luz de Luna
+  T43	= Castillo de Bowser
+  T44	= Senda Arco Iris
+  T51	= GCN Playa Peach
+  T52	= DS Cataratas de Yoshi
+  T53	= SNES Valle Fantasma 2
+  T54	= N64 Pista Mario
+  T61	= N64 Tierra Sorbete
+  T62	= GBA Playa Shy Guy
+  T63	= DS Ciudad Delfino
+  T64	= GCN Estadio Waluigi
+  T71	= DS Desierto Sol-Sol
+  T72	= GBA Castillo de Bowser 3
+  T73	= N64 Pista de la Jungla DK
+  T74	= GCN Circuito Mario
+  T81	= SNES Circuito Mario 3
+  T82	= DS Jardín de Peach
+  T83	= GCN Montaña DK
+  T84	= N64 Castillo de Bowser
+  U11	= Plaza Cúbica
+  U12	= Muelle Delfino
+  U13	= Estadio Funky
+  U14	= Ruleta Chomp Cadenas
+  U15	= Desierto Roca Picuda
+  U21	= SNES Circuito de Batalla 4
+  U22	= GBA Circuito de Batalla 3
+  U23	= N64 Rascacielos
+  U24	= GCN Tierra Galleta
+  U25	= DS Casa Crepuscular
